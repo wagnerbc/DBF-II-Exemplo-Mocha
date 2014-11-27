@@ -1,0 +1,2 @@
+Exemplo criado com base no existente no site 
+http://imasters.com.br/front-end/javascript/testando-seu-codigo-node-com-o-mocha/
